@@ -1,2 +1,2 @@
 // xmpp integration
-module.exports = Franz => Franz;
+module.exports = Ferdi => Ferdi;

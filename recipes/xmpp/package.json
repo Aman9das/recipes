@@ -1,12 +1,12 @@
 {
     "id": "xmpp",
     "name": "xmpp",
-    "version": "2.0.0",
+    "version": "1.0.0",
     "description": "xmpp client",
     "main": "index.js",
-    "author": "Alexander Schranz",
+    "author": "Aman Das",
     "license": "MIT",
-    "repository": "https://github.com/alexander-schranz/franz-xmpp-client",
+    "repository": "https://github.com/Aman9das/ferdi-xmpp-recipe",
     "config": {
         "serviceURL": "https://inverse.chat",
         "hasNotificationSound": true
